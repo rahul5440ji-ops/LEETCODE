@@ -30,6 +30,7 @@ DSA for fun
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
@@ -39,5 +40,10 @@ DSA for fun
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
