@@ -19,6 +19,7 @@ DSA for fun
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,5 @@ DSA for fun
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
