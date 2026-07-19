@@ -19,6 +19,7 @@ DSA for fun
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@ DSA for fun
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
@@ -63,4 +65,8 @@ DSA for fun
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
