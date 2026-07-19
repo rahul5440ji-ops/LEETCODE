@@ -10,6 +10,7 @@ DSA for fun
 | [0016-3sum-closest](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,6 +21,7 @@ DSA for fun
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -31,6 +33,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +72,8 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
