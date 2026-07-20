@@ -8,6 +8,7 @@ DSA for fun
 | ------- | ------- |
 | [0015-3sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
+| [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -76,4 +77,12 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
