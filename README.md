@@ -20,6 +20,7 @@ DSA for fun
 | [0724-find-pivot-index](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ DSA for fun
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,4 +103,8 @@ DSA for fun
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 <!---LeetCode Topics End-->
