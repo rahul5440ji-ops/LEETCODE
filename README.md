@@ -78,6 +78,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -111,5 +112,6 @@ DSA for fun
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
