@@ -15,6 +15,7 @@ DSA for fun
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
@@ -113,5 +114,10 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->
