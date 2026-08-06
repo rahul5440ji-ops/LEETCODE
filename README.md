@@ -91,6 +91,7 @@ DSA for fun
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0092-reverse-linked-list-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
