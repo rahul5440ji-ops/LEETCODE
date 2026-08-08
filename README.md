@@ -92,6 +92,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0092-reverse-linked-list-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -136,6 +137,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
