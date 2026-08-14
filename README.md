@@ -24,6 +24,7 @@ DSA for fun
 | [0724-find-pivot-index](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
@@ -56,6 +57,7 @@ DSA for fun
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
