@@ -13,6 +13,7 @@ DSA for fun
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0057-insert-interval/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -55,6 +56,7 @@ DSA for fun
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0704-binary-search/) | Easy |
@@ -168,4 +170,8 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 <!---LeetCode Topics End-->
