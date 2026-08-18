@@ -17,6 +17,7 @@ DSA for fun
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
@@ -58,6 +59,7 @@ DSA for fun
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -128,6 +130,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,4 +177,5 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
