@@ -17,6 +17,7 @@ DSA for fun
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -53,6 +54,7 @@ DSA for fun
 | [0016-3sum-closest](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0056-merge-intervals](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -133,6 +135,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -185,5 +188,10 @@ DSA for fun
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
