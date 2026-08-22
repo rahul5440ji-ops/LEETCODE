@@ -25,6 +25,7 @@ DSA for fun
 | [0503-next-greater-element-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0724-find-pivot-index/) | Easy |
 | [0739-daily-temperatures](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0739-daily-temperatures/) | Medium |
@@ -58,6 +59,7 @@ DSA for fun
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +104,7 @@ DSA for fun
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -113,6 +116,7 @@ DSA for fun
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
@@ -179,6 +183,7 @@ DSA for fun
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -196,6 +201,7 @@ DSA for fun
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +211,9 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
