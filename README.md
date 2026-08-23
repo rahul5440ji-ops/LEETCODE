@@ -32,6 +32,7 @@ DSA for fun
 | [0852-peak-index-in-a-mountain-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -60,6 +61,7 @@ DSA for fun
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +148,7 @@ DSA for fun
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,11 +206,13 @@ DSA for fun
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -216,4 +222,12 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
