@@ -61,6 +61,7 @@ DSA for fun
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@ DSA for fun
 | [0525-contiguous-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -119,6 +121,7 @@ DSA for fun
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Linked List
@@ -188,6 +191,7 @@ DSA for fun
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -206,6 +210,7 @@ DSA for fun
 | [0347-top-k-frequent-elements](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -230,4 +235,8 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
 <!---LeetCode Topics End-->
