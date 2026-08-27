@@ -141,6 +141,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -159,6 +160,7 @@ DSA for fun
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ DSA for fun
 | ------- | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -243,4 +246,8 @@ DSA for fun
 | ------- | ------- |
 | [0502-ipo](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
