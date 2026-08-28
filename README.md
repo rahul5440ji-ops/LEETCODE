@@ -119,6 +119,7 @@ DSA for fun
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -158,6 +159,7 @@ DSA for fun
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
@@ -250,4 +252,12 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
