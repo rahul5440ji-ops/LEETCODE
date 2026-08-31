@@ -10,6 +10,7 @@ DSA for fun
 | [0016-3sum-closest](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0057-insert-interval/) | Medium |
@@ -261,6 +262,7 @@ DSA for fun
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0039-combination-sum/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
