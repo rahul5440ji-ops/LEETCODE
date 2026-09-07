@@ -276,6 +276,7 @@ DSA for fun
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -286,6 +287,7 @@ DSA for fun
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -293,6 +295,7 @@ DSA for fun
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
@@ -302,6 +305,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
