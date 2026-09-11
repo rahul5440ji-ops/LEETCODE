@@ -284,6 +284,7 @@ DSA for fun
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +295,7 @@ DSA for fun
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@ DSA for fun
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
