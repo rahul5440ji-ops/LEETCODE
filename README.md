@@ -288,6 +288,7 @@ DSA for fun
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -317,6 +318,7 @@ DSA for fun
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -348,4 +350,5 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0700-search-in-a-binary-search-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
