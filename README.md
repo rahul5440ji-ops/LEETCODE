@@ -17,6 +17,7 @@ DSA for fun
 | [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -218,6 +219,7 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Heap (Priority Queue)
@@ -299,6 +301,7 @@ DSA for fun
 | [0101-symmetric-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -331,6 +334,7 @@ DSA for fun
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## String Matching
@@ -355,4 +359,8 @@ DSA for fun
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
