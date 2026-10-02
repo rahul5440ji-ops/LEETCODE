@@ -305,6 +305,7 @@ DSA for fun
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
@@ -336,6 +337,7 @@ DSA for fun
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -363,4 +365,9 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
