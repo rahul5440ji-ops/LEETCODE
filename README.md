@@ -105,6 +105,7 @@ DSA for fun
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0141-linked-list-cycle](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0202-happy-number/) | Easy |
@@ -127,6 +128,7 @@ DSA for fun
 | [0020-valid-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -335,6 +337,7 @@ DSA for fun
 | [0102-binary-tree-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0127-word-ladder](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
@@ -370,4 +373,8 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
