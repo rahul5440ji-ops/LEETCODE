@@ -173,6 +173,7 @@ DSA for fun
 | [0131-palindrome-partitioning](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0509-fibonacci-number](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0509-fibonacci-number/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Sweep Line
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ DSA for fun
 | [0502-ipo](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0767-reorganize-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -310,6 +312,7 @@ DSA for fun
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0951-flip-equivalent-binary-trees](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0951-flip-equivalent-binary-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -342,6 +345,7 @@ DSA for fun
 | [0226-invert-binary-tree](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,8 +377,13 @@ DSA for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0127-word-ladder/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
