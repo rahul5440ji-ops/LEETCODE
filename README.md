@@ -38,6 +38,7 @@ DSA for fun
 | [0973-k-closest-points-to-origin](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0986-interval-list-intersections](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0986-interval-list-intersections/) | Medium |
+| [0994-rotting-oranges](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 ## Two Pointers
@@ -225,6 +226,7 @@ DSA for fun
 | [0200-number-of-islands](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0200-number-of-islands/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0994-rotting-oranges](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +348,7 @@ DSA for fun
 | [0547-number-of-provinces](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0994-rotting-oranges](https://github.com/rahul5440ji-ops/LEETCODE/tree/main/0994-rotting-oranges/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
